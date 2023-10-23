@@ -1,0 +1,2 @@
+# ServiceOrientedComputing
+Assignment for SOC
