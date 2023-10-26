@@ -1,0 +1,12 @@
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace UserManagement.Models
+{
+    public class User
+    {
+        public int UserId { get; set; }
+        public string UserRole { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}
