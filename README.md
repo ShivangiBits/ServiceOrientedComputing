@@ -11,8 +11,6 @@ The Bookstore Management System is a web-based application designed to manage a 
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
