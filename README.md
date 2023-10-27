@@ -44,11 +44,11 @@ To get the Bookstore Management System up and running, follow these steps:
    dotnet build
 3.  Run the application:
    dotnet run
-4.  Open your web browser and access the application at http://localhost:5000 (or as configured).
+4.  Open your web browser and access the application at https://localhost:7056 (or as configured).
 
 # Configuration
 Database Configuration: Update the database connection string in appsettings.json to use your preferred database system (e.g., SQL Server).
-Authentication Configuration: Configure authentication options in Startup.cs for production use.
+Authentication Configuration: Configure authentication options in Program.cs for production use.
 
 # Usage
 Register an admin or customer account to log in and start using the application.
