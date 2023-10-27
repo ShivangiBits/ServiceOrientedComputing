@@ -4,11 +4,11 @@ The Bookstore Management System is a prime example of a microservices architectu
 
    ## Microservices Components:
    
-   ### User and Authentication Service : 
+   ### UserManagement Service : 
    Responsible for user registration, authentication, and account management. Also, Ensures secure user authentication using JWT tokens.
-   ### Book Service: 
+   ### BookManagement Service: 
    Manages the bookstore's product catalog, inventory, and pricing.
-   ### Order Service: 
+   ### OrderManagement Service: 
    Handles order processing, shopping cart functionalities, and order fulfillment.
 
 
