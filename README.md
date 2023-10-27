@@ -46,16 +46,16 @@ To get the Bookstore Management System up and running, follow these steps:
    dotnet run
 4.  Open your web browser and access the application at http://localhost:5000 (or as configured).
 
-**Configuration**
+# Configuration
 Database Configuration: Update the database connection string in appsettings.json to use your preferred database system (e.g., SQL Server).
 Authentication Configuration: Configure authentication options in Startup.cs for production use.
 
-**Usage**
+# Usage
 Register an admin or customer account to log in and start using the application.
 Manage books in the inventory, add them to the shopping cart, and process orders.
 Explore the user interface to familiarize yourself with the application's features.
 
-**License**
+# License
 This project is licensed under the MIT License.
 
 This README template provides a basic structure that you can expand upon to include more specific details about your project, such as system architecture, data models, and additional setup options. Remember to keep the README updated as your project evolves and include any information that helps users, contributors, and maintainers understand and interact with your application.
